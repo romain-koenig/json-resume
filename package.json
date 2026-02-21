@@ -15,9 +15,12 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-        "validate": "resume validate --resume resume.json",
-    "build": "resume export dist/index.html --resume resume.json --theme elegant"
-  },
+    "validate": "resume validate --resume resume.json",
+    "build": "mkdir -p dist && resume export dist/index.html --resume resume.json --theme elegant"
+  }
+
+
+},
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
     "resume-cli": "^3.0.8"

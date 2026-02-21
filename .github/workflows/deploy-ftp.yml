@@ -32,6 +32,9 @@ jobs:
       - name: Validate resume.json
         run: npm run validate
 
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
+
       - name: Build site
         run: npm run build
 
