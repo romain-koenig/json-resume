@@ -2,12 +2,12 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
 	"basics": {
 		"name": "Romain KOENIG",
-		"label": "Coordinateur de projets informatiques / web (freelance)",
+		"label": "Consultant IT — Coordination transverse & aide à la décision pour directions informatiques",
 		"image": "",
 		"email": "romain@kromatic.fr",
 		"phone": "",
 		"url": "https://kromatic.fr",
-		"summary": "Indépendant depuis 2019, j'accompagne les entreprises dans leur transformation digitale. Avec une expérience de 19 ans dans le secteur informatique, dont 15 en gestion de projets, j'offre des services de conseil, développement, expertise en IA et solutions Low Code / No Code.\n",
+		"summary": "Issu du développement et du pilotage technique, j’ai progressivement évolué vers des rôles de coordination et d’aide à la décision au sein de directions informatiques de grands comptes.\n\nMon rôle consiste à faire le lien entre la réalité des équipes opérationnelles et les attentes du management, afin de rendre les situations complexes plus lisibles et d’éviter les décisions prises sur des informations partielles ou biaisées.\n\nJ’interviens aujourd’hui comme consultant indépendant sur des missions longues, là où les enjeux sont transverses : gouvernance, organisation, priorisation, usages des outils et détection des signaux faibles.\n\nMon parcours me permet de comprendre les contraintes techniques sans chercher à me substituer aux experts.\nMon positionnement externe me permet d’agir sans agenda politique interne.\n\nJe privilégie les contextes où la clarté, la confiance et le temps gagné comptent plus que la vitesse ou l’effet d’annonce.",
 		"location": {
 			"countryCode": "FR",
 			"address": "France"
