@@ -1,0 +1,25 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/romain-koenig/json-resume#readme",
+  "bugs": {
+    "url": "https://github.com/romain-koenig/json-resume/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romain-koenig/json-resume.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+        "validate": "resume validate --resume resume.json",
+    "build": "resume export dist/index.html --resume resume.json --theme stackoverflow"
+  },
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "resume-cli": "^3.0.8"
+  }
+}

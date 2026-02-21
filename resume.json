@@ -1,0 +1,308 @@
+{
+	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+	"basics": {
+		"name": "Romain KOENIG",
+		"label": "Coordinateur de projets informatiques / web (freelance)",
+		"image": "",
+		"email": "romain@kromatic.fr",
+		"phone": "",
+		"url": "https://kromatic.fr",
+		"summary": "Indépendant depuis 2019, j'accompagne les entreprises dans leur transformation digitale. Avec une expérience de 19 ans dans le secteur informatique, dont 15 en gestion de projets, j'offre des services de conseil, développement, expertise en IA et solutions Low Code / No Code.\n",
+		"location": {
+			"countryCode": "FR",
+			"address": "France"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "romainkoenig",
+				"url": "https://www.linkedin.com/in/romainkoenig/"
+			},
+			{
+				"network": "Mastodon",
+				"username": "@romaink@masto.ai",
+				"url": "https://masto.ai/@romaink"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Kromatic",
+			"position": "Fondateur",
+			"startDate": "2019-09-01",
+			"summary": "Accompagnement de clients (associations, indépendants, PME, grands groupes) dans leurs projets informatiques / web / transformation digitale.\n\nAccompagnement à la mise en place de démarche écoresponsable dans le numérique.\n\nDéveloppement d'une expertise sur les sujets No Code / Low Code / Automation / IA",
+			"highlights": [],
+			"url": "https://kromatic.fr",
+			"location": "Région de Lyon, France"
+		},
+		{
+			"name": "Malteurop",
+			"position": "IT Project Manager / PMO",
+			"startDate": "2024-05-01",
+			"summary": "PMO - Coordination des projets de l'équipe IT Malteurop SA.\n\nProduction et diffusion d'une newsletter interne pour le management et les différents stakeholders métier de la structure\nDéveloppement outillage interne (Stack technique JS et outils No Code / Low Code)\n\nEnvironnement de travail international (NA, Europe, APAC), en anglais.",
+			"highlights": [],
+			"url": "https://www.linkedin.com/company/malteurop",
+			"location": "Région de Lyon, France"
+		},
+		{
+			"name": "Pernod Ricard",
+			"position": "IT Project Manager / PMO",
+			"startDate": "2020-09-01",
+			"highlights": [],
+			"summary": "PMO - Coordination des projets de l'équipe Platform Architecture.\nAnimation de la communauté des architectes (HQ / France)\nProduction et diffusion d'une newsletter interne pour le management de l'équipe TECH (ex IT) et les chefs de projets fonctionnels, pour expliquer les actions en cours de l'équipe Platform Architecture, tout en vulgarisant les aspects trop techniques\nPilotage de l'activité de support sur les thématiques DevOps & Observability\nDéveloppement outillage interne (Stack technique JS et outils No Code / Low Code)\n\nEnvironnement de travail national (Paris, Reims, Cognac, Marseille) et international (US, Europe, Asie), en anglais.",
+			"url": "https://www.linkedin.com/company/pernod-ricard/",
+			"location": "Lyon, Auvergne-Rhône-Alpes, France"
+		},
+		{
+			"name": "FIDUCIAL Informatique",
+			"position": "Responsable des Professional Services / Chef de projets R&D",
+			"startDate": "2018-09-01",
+			"endDate": "2019-04-30",
+			"summary": "Responsable de l'équipe de développement du progiciel Signature. Mise en place de méthodologies Agiles.\n Reporting auprès de la direction générale.",
+			"highlights": [],
+			"url": "https://www.linkedin.com/company/fiducial-informatique",
+			"location": "Région de Lyon, France"
+		},
+		{
+			"name": "Dicma",
+			"position": "Responsable Technique et Projets",
+			"startDate": "2015-01-01",
+			"endDate": "2018-08-31",
+			"highlights": [],
+			"summary": "Management de l'équipe technique en charge des sujets suivants :\n- Installations clientèle\n- Hotline technique\n- Formations utilisateurs\nEncadrement des projets de mise en place des solutions de dictée numérique et reconnaissance vocale en clientèle (milieu médical et juridique).\nGestion des projets de développement informatiques\nEncadrement du SAV (réparations hardware)",
+			"url": "https://www.linkedin.com/company/dicma/"
+		},
+		{
+			"name": "Alliade Habitat",
+			"position": "Chef de projets informatiques",
+			"startDate": "2013-01-01",
+			"endDate": "2014-12-31",
+			"highlights": [],
+			"summary": "En responsabilité du domaine fonctionnel \"Gestion locative\" au sein du GIE Amallia Systèmes d'Information\nMise en place de modules du progiciel métier (tests, paramétrage, formations utilisateurs)\nEncadrement de développements informatiques",
+			"url": "https://www.linkedin.com/company/alliadehabitat/",
+			"location": "L"
+		},
+		{
+			"name": "DICMA",
+			"position": "Chef de projets informatiques",
+			"startDate": "2012-01-01",
+			"endDate": "2012-12-31",
+			"highlights": [],
+			"summary": "Mise en place d'outils de dictée numérique et de reconnaissance vocale en environnement médical et juridique\nIntégration logicielle dans les SI des clients\nEncadrement de projets de développement informatiques sous traités\nRédaction de réponses à appel d'offres & soutenances\nParticipation aux salons\nFormations utilisateurs",
+			"url": "https://www.linkedin.com/company/dicma/"
+		},
+		{
+			"name": "Sopra Steria",
+			"position": "Développeur - Chef de projets informatiques",
+			"startDate": "2006-02-01",
+			"endDate": "2011-12-31",
+			"highlights": [],
+			"summary": "Travail au sein de la division Immobilier, Agence IKOS (progiciel destiné aux bailleurs sociaux)\n\nProjets et missions\n\n2011 Chef de projet – mise en place d’un Extranet pour les locataires des bailleurs sociaux\nEncadrement d'une équipe de 7 personnes\nBudget = 700 jours.\n\n2010 Chef de projet - développement d’un module Extranet Diagnostics. Budget = 350 jours.\nDéfinition d'une nouvelle architecture technique pour les modules Extranet de la division Immobilier.\n\n2009 Responsable adjoint de l'entité \"Modules et évolutions\" - réalisation d'études préalables et d'études techniques (mobilité, production documentaire, ETL, intégration avec produits de LAD/RAD, plans techniques...), rédaction de devis, surpilotage de projets, reporting à la direction d'agence. Budget annuel de l'entité = 1200 jours\n\n2006-2008 Chef de projets courts (20 à 50 jours)\nDéveloppeur - développements Java, Framework Struts et C#, Framework .NET\n\nContacts clients\n- Participation aux journées de rencontre avec les clients (\"Journées IKOS\") : animation d'ateliers\n- Participations à des groupes de travail",
+			"url": "https://www.linkedin.com/company/soprasteria/"
+		},
+		{
+			"name": "Infineon Technologies",
+			"position": "Software Developer",
+			"startDate": "2004-07-01",
+			"endDate": "2005-06-30",
+			"highlights": [],
+			"summary": "Développement (C++/Qt) d'un logiciel interfacé avec différents microcontrôleurs et instruments de contrôle et de mesure.",
+			"url": "https://www.linkedin.com/company/infineon-technologies/"
+		}
+	],
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "Ecole supérieure de Chimie Physique Electronique de Lyon",
+			"area": "Ingénierie informatique",
+			"studyType": "Diplôme d'ingénieur",
+			"startDate": "1999-09-01",
+			"endDate": "2006-06-30",
+			"score": "",
+			"courses": []
+		}
+	],
+	"awards": [],
+	"certificates": [
+		{
+			"name": "SAP Customer Engagement and Discovery",
+			"issuer": "Coursera - SAP",
+			"date": "2026-01-28",
+			"url": "https://www.coursera.org/account/accomplishments/certificate/Y39SJYWAA2FO"
+		},
+		{
+			"name": "SAP - Understanding the Enterprise Systems Environment",
+			"issuer": "Coursera - SAP",
+			"date": "2026-01-12",
+			"url": "https://www.coursera.org/account/accomplishments/certificate/OX41EBA48DAF"
+		},
+		{
+			"name": "SAP Professional Fundamentals",
+			"issuer": "Coursera - SAP",
+			"date": "2025-12-27",
+			"url": "https://www.coursera.org/account/accomplishments/certificate/LEPIHJL5IYAF"
+		},
+		{
+			"name": "Prompt Engineering for ChatGPT",
+			"issuer": "Coursera - Vanderbilt University",
+			"date": "2025-06-02",
+			"url": "https://www.coursera.org/account/accomplishments/verify/7TWAS27INRL8"
+		},
+		{
+			"name": "Introduction to Generative AI",
+			"issuer": "Coursera - Google Cloud",
+			"date": "2024-03-25",
+			"url": "https://www.coursera.org/account/accomplishments/verify/QUKZPURXSM35"
+		},
+		{
+			"name": "Introduction Pratique à YAML",
+			"issuer": "Coursera - Coursera Project Network",
+			"date": "2023-09-19",
+			"url": "https://www.coursera.org/account/accomplishments/verify/95J99UZKTGGL"
+		},
+		{
+			"name": "Getting Started with Go",
+			"issuer": "Coursera - University of California, Irvine",
+			"date": "2023-08-01",
+			"url": "https://www.coursera.org/account/accomplishments/verify/S3U4J7BLVYG3"
+		},
+		{
+			"name": "Effective Problem-Solving and Decision-Making",
+			"issuer": "Coursera - University of California, Irvine",
+			"date": "2023-02-01",
+			"url": "https://www.coursera.org/account/accomplishments/verify/Q39SJTM3PB2U"
+		},
+		{
+			"name": "Impacts Environnementaux du numérique",
+			"issuer": "France Université Numérique - INRIA",
+			"date": "2022-12-01",
+			"url": "https://openbadgefactory.com/v1/assertion/11f81b579609d050529d609648f70e5eb9796f62"
+		},
+		{
+			"name": "Introduction to Git and GitHub",
+			"issuer": "Coursera - Google",
+			"date": "2022-10-31",
+			"url": "https://www.coursera.org/account/accomplishments/verify/VKFSF8LCS2XV"
+		},
+		{
+			"name": "Start the UX Design Process: Empathize, Define, and Ideate",
+			"issuer": "Coursera - Google",
+			"date": "2022-03-31",
+			"url": "https://www.coursera.org/account/accomplishments/verify/KFTAFTKG6GUK"
+		},
+		{
+			"name": "Foundations of User Experience (UX) Design",
+			"issuer": "Coursera - Google",
+			"date": "2022-01-31",
+			"url": "https://www.coursera.org/account/accomplishments/verify/QNTJDWYSB9ZD"
+		},
+		{
+			"name": "Python Core",
+			"issuer": "Sololearn",
+			"date": "2017-11-30",
+			"url": "https://www.sololearn.com/certificates/CT-RSUO3NOK"
+		},
+		{
+			"name": "JavaScript",
+			"issuer": "Sololearn",
+			"date": "2019-05-31",
+			"url": "https://www.sololearn.com/certificates/CT-YYA495UX"
+		},
+		{
+			"name": "Maîtriser le shell Bash",
+			"issuer": "France Université Numérique - Université de La Réunion",
+			"date": "2018-04-30",
+			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:univ-reunion+128001+session01_da5e15d06629548167e4e44db301bb93.pdf"
+		},
+		{
+			"name": "Fabriquer un objet connecté",
+			"issuer": "France Université Numérique - Institut Mines-Télécom",
+			"date": "2019-05-31",
+			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04018+session04_d97cb22e3400cb69b9030d950962b890.pdf"
+		},
+		{
+			"name": "Mobilité 3.0",
+			"issuer": "France Université Numérique - Institut Mines-Télécom",
+			"date": "2019-05-31",
+			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04015+session03_67ac83ac935a030b823eb59c98b92b52.pdf"
+		},
+		{
+			"name": "S'initier à la fabrication numérique",
+			"issuer": "France Université Numérique - Institut Mines-Télécom",
+			"date": "2019-07-31",
+			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04026+session04_807c8e7bbb5a02393465687081d864bc.pdf"
+		},
+		{
+			"name": "Imprimer en 3D",
+			"issuer": "France Université Numérique - Institut Mines-Télécom",
+			"date": "2019-05-31",
+			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04021+session06_3db13d06533fb65f3c8a5f0257b9f5f2.pdf"
+		}
+	],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Team Management",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Software Project Management",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Software Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "NoCode / Low Code (Airtable / Notion / Make.com / N8N...)",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "IA (OpenAI integrations, LLM, Machine Learning basics)",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Gestion de projet",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "JavaScript (Node, React, Next...)",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Linux",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Software Integration",
+			"level": "",
+			"keywords": []
+		}
+	],
+	"languages": [
+		{
+			"fluency": "Full Professional",
+			"language": "Anglais"
+		},
+		{
+			"fluency": "Native Speaker",
+			"language": "Français"
+		}
+	],
+	"interests": [],
+	"references": [],
+	"projects": [],
+	"meta": {
+		"version": "v1.0.0",
+		"canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+		"theme": "elegant"
+	}
+}
