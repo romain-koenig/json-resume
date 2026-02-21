@@ -41,7 +41,7 @@ jobs:
       - name: Install lftp
         run: sudo apt-get update && sudo apt-get install -y lftp
 
-      - name: Deploy dist/ to FTP (mirror)
+      - name: Deploy index.html to FTP (root, no delete)
         shell: bash
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
@@ -50,12 +50,17 @@ jobs:
         run: |
           set -euo pipefail
 
+          test -f dist/index.html
+
           lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF
           set ftp:ssl-allow no
           set net:max-retries 2
           set net:timeout 20
           set cmd:fail-exit yes
 
-          mirror -R --delete --only-newer --verbose dist/ .
+          # Remove only the file we own, then upload the new one.
+          rm -f index.html
+          put -O . dist/index.html
+
           bye
           EOF
