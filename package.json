@@ -14,7 +14,9 @@
   "author": "Romain KOENIG <romain@kromatic.fr>",
   "scripts": {
     "validate": "resume validate --resume resume.json",
-    "build": "mkdir -p dist && resume export dist/index.html --resume resume.json --theme elegant"
+    "build": "mkdir -p dist && resume export dist/index.html --resume resume.json --theme elegant",
+    "build:pdf": "mkdir -p dist && resume export dist/resume.pdf --resume resume.json --theme elegant",
+    "build:all": "npm run build && npm run build:pdf"
   },
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
