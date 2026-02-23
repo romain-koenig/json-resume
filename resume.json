@@ -2,15 +2,16 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
 	"basics": {
 		"name": "Romain KOENIG",
-		"label": "Consultant IT — Coordination transverse & aide à la décision pour directions informatiques",
+		"label": "Consultant IT — Coordination transversale & aide à la décision pour directions informatiques",
 		"image": "",
 		"email": "romain@kromatic.fr",
 		"phone": "",
 		"url": "https://kromatic.fr",
-		"summary": "Issu du développement et du pilotage technique, j’ai progressivement évolué vers des rôles de coordination et d’aide à la décision au sein de directions informatiques de grands comptes.\n\nMon rôle consiste à faire le lien entre la réalité des équipes opérationnelles et les attentes du management, afin de rendre les situations complexes plus lisibles et d’éviter les décisions prises sur des informations partielles ou biaisées.\n\nJ’interviens aujourd’hui comme consultant indépendant sur des missions longues, là où les enjeux sont transverses : gouvernance, organisation, priorisation, usages des outils et détection des signaux faibles.\n\nMon parcours me permet de comprendre les contraintes techniques sans chercher à me substituer aux experts.\nMon positionnement externe me permet d’agir sans agenda politique interne.\n\nJe privilégie les contextes où la clarté, la confiance et le temps gagné comptent plus que la vitesse ou l’effet d’annonce.",
+		"summary": "Issu du développement et du pilotage technique, j’ai progressivement évolué vers des rôles de coordination et d’aide à la décision au sein de directions informatiques de grands comptes.\n\nMon rôle consiste à faire le lien entre la réalité des équipes opérationnelles et les attentes du management, afin de rendre les situations complexes plus lisibles et d’éviter les décisions prises sur des informations partielles ou biaisées.\n\nJ’interviens aujourd’hui comme consultant indépendant sur des missions longues, là où les enjeux sont transverses : gouvernance, organisation, priorisation, usages des outils et détection des signaux faibles.\n\nMon parcours me permet de comprendre les contraintes techniques sans chercher à me substituer aux experts. Mon positionnement externe me permet d’agir sans agenda politique interne.\n\nJe privilégie les contextes où la clarté, la confiance et le temps gagné comptent plus que la vitesse ou l’effet d’annonce.",
 		"location": {
 			"countryCode": "FR",
-			"address": "France"
+			"address": "France",
+            "city": "Lyon"
 		},
 		"profiles": [
 			{
@@ -33,7 +34,7 @@
 			"summary": "Accompagnement de clients (associations, indépendants, PME, grands groupes) dans leurs projets informatiques / web / transformation digitale.\n\nAccompagnement à la mise en place de démarche écoresponsable dans le numérique.\n\nDéveloppement d'une expertise sur les sujets No Code / Low Code / Automation / IA",
 			"highlights": [],
 			"url": "https://kromatic.fr",
-			"location": "Région de Lyon, France"
+			"location": "Lyon, France"
 		},
 		{
 			"name": "Malteurop",
@@ -42,16 +43,16 @@
 			"summary": "Coordination opérationnelle d’une équipe IT internationale, en environnement SAP.\n\nRôle centré sur :\n\n- la lisibilité de l’avancement des projets,\n- la coordination des acteurs IT aux périmètres très hétérogènes,\n- le reporting et la mise en visibilité des sujets IT auprès du CTO et des directions métiers\n\nMission en cours.",
 			"highlights": [],
 			"url": "https://www.linkedin.com/company/malteurop",
-			"location": "Région de Lyon, France"
+			"location": "Reims, France (hybride)"
 		},
 		{
 			"name": "Pernod Ricard",
 			"position": "IT Project Manager / PMO",
 			"startDate": "2024-07-01",
 			"highlights": [],
-			"summary": "Intervention transverse sur la gouvernance et l’exploitation de plateformes techniques à l’échelle du groupe, avec un focus sur GitHub. Rôle orienté fiabilisation des usages et lisibilité pour le management, plus que production technique.\n\nResponsabilités principales :\nGouvernance et exploitation de GitHub Enterprise sur 36 organisations\nPilotage de la roadmap GitHub / Copilot, en lien direct avec les clients internes\nSuivi des usages, des coûts et des risques (FinOps, sécurité, conformité)\nMise en place d’automatisations (décommissionnement des comptes GitHub et 1Password, synchronisations d'équipes...)\nProduction et maintien de dashboards de pilotage (Grafana)\nPoint d’entrée en cas de dérive coûts / gouvernance / sécuritéIntervention transverse sur la gouvernance et l’exploitation de plateformes techniques à l’échelle du groupe, avec un focus sur GitHub. Rôle orienté fiabilisation des usages et lisibilité pour le management, plus que production technique. Responsabilités principales : Gouvernance et exploitation de GitHub Enterprise sur 36 organisations Pilotage de la roadmap GitHub / Copilot, en lien direct avec les clients internes Suivi des usages, des coûts et des risques (FinOps, sécurité, conformité) Mise en place d’automatisations (décommissionnement des comptes GitHub et 1Password, synchronisations d'équipes...) Production et maintien de dashboards de pilotage (Grafana) Point d’entrée en cas de dérive coûts / gouvernance / sécurité\n\nCompétences : GitHub · GitHub Copilot · API Postman",
+			"summary": "Intervention transverse sur la gouvernance et l’exploitation de plateformes techniques à l’échelle du groupe, avec un focus sur GitHub. Rôle orienté fiabilisation des usages et lisibilité pour le management, plus que production technique.\n\nResponsabilités principales :\nGouvernance et exploitation de GitHub Enterprise sur 36 organisations\nPilotage de la roadmap GitHub / Copilot, en lien direct avec les clients internes\nSuivi des usages, des coûts et des risques (FinOps, sécurité, conformité)\nMise en place d’automatisations (décommissionnement des comptes GitHub et 1Password, synchronisations d'équipes...)\nProduction et maintien de dashboards de pilotage (Grafana)\nPoint d’entrée en cas de dérive coûts / gouvernance / sécuritéIntervention transverse sur la gouvernance et l’exploitation de plateformes techniques à l’échelle du groupe, avec un focus sur GitHub. Rôle orienté fiabilisation des usages et lisibilité pour le management, plus que production technique.\n\nCompétences : GitHub · GitHub Copilot · API Postman",
 			"url": "https://www.linkedin.com/company/pernod-ricard/",
-			"location": "Lyon, Auvergne-Rhône-Alpes, France"    
+			"location": "Lyon, France (remote)"
 		},
 		{
 			"name": "Pernod Ricard",
@@ -59,19 +60,19 @@
 			"startDate": "2020-09-01",
             "endDate": "2024-05-30",
 			"highlights": [],
-			"summary": "&ôle de coordination au sein de l’équipe IT Architecture.\n\nPositionné entre équipes techniques et management, avec un rôle volontairement externe, orienté lisibilité, signaux faibles et aide à la décision.\n\nResponsabilités :\n\nSurpilotage d’un portefeuille d’environ 40 projets web, cloud et outils internes\nCoordination d’une douzaine d’architectes\nSuivi transverse de l’avancement, des dépendances et des risques\nReporting hebdomadaire (newsletter interne) à destination du management\nDétection précoce des signaux faibles terrain\n\nLe rôle était de donner au Head of IT Architecture une vision fidèle du terrain, pour lui permettre de prendre de meilleures décisions et de concentrer son temps sur les sujets à forte valeur.",
+			"summary": "Rôle de coordination au sein de l’équipe IT Architecture.\n\nPositionné entre équipes techniques et management, avec un rôle volontairement externe, orienté lisibilité, signaux faibles et aide à la décision.\n\nResponsabilités :\n\nSurpilotage d’un portefeuille d’environ 40 projets web, cloud et outils internes\nCoordination d’une douzaine d’architectes\nSuivi transverse de l’avancement, des dépendances et des risques\nReporting hebdomadaire (newsletter interne) à destination du management\nDétection précoce des signaux faibles terrain\n\nLe rôle était de donner au Head of IT Architecture une vision fidèle du terrain, pour lui permettre de prendre de meilleures décisions et de concentrer son temps sur les sujets à forte valeur.",
 			"url": "https://www.linkedin.com/company/pernod-ricard/",
-			"location": "Lyon, Auvergne-Rhône-Alpes, France"
+			"location": "Lyon, France (remote)"
 		},
 		{
 			"name": "FIDUCIAL Informatique",
 			"position": "Responsable des Professional Services / Chef de projets R&D",
 			"startDate": "2018-09-01",
 			"endDate": "2019-04-30",
-			"summary": "Intervention sur un produit métier critique à forts enjeux juridiques et réglementaires.\n\nCo-pilotage du projet Signature by FIDUCIAL (rédaction d’actes notariés, signature électronique, dépôt légal), en lien étroit avec les équipes produit, delivery et support.\n\nRôle centré sur :\n\nLa coordination des équipes Front / Back / Testing (≈20 personnes),\nL’interface entre opérationnel et gouvernance,\nLe pilotage d’un logiciel à contraintes légales élevées.Intervention sur un produit métier critique à forts enjeux juridiques et réglementaires. Co-pilotage du projet Signature by FIDUCIAL (rédaction d’actes notariés, signature électronique, dépôt légal), en lien étroit avec les équipes produit, delivery et support. Rôle centré sur : La coordination des équipes Front / Back / Testing (≈20 personnes), L’interface entre opérationnel et gouvernance, Le pilotage d’un logiciel à contraintes légales élevées.\n\nCompétences : Méthodes agiles",
+			"summary": "Intervention sur un produit métier critique à forts enjeux juridiques et réglementaires.\n\nCo-pilotage du projet Signature by FIDUCIAL (rédaction d’actes notariés, signature électronique, dépôt légal), en lien étroit avec les équipes produit, delivery et support.\n\nRôle centré sur :\n\nLa coordination des équipes Front / Back / Testing (≈20 personnes),\nL’interface entre opérationnel et gouvernance,\nLe pilotage d’un logiciel à contraintes légales élevées.\n\nCompétences : Méthodes agiles",
 			"highlights": [],
 			"url": "https://www.linkedin.com/company/fiducial-informatique",
-			"location": "Région de Lyon, France"
+			"location": "Lyon, France"
 		},
 		{
 			"name": "Dicma",
@@ -80,7 +81,8 @@
 			"endDate": "2018-08-31",
 			"highlights": [],
 			"summary": "Retour chez Dicma avec un périmètre élargi, combinant management, technique et pilotage opérationnel.\n\nResponsabilités :\n\n- Management et structuration de l’équipe technique (installations, hotline, support, formations)\n- Encadrement des projets de déploiement des solutions de dictée numérique et reconnaissance vocale\n- Pilotage de projets de développement informatiques\n- Supervision du SAV et des réparations hardware\n- Interface directe avec des clients très exigeants : professions libérales, cabinets, établissements de santé, CHU...\n\nContexte caractérisé par :\n\n- des contraintes légales fortes,\n- une faible tolérance à l’erreur,\n- un contact quotidien avec les utilisateurs.\n\nCette seconde expérience a marqué le passage d’un rôle de chef de projets à un rôle de responsable opérationnel, avec une forte responsabilité humaine et terrain.",
-			"url": "https://www.linkedin.com/company/dicma/"
+			"url": "https://www.linkedin.com/company/Dicma/",
+			"location": "Lyon, France"
 		},
 		{
 			"name": "Alliade Habitat",
@@ -90,16 +92,17 @@
 			"highlights": [],
 			"summary": "Responsable du domaine fonctionnel Gestion locative au sein du GIE Amallia Systèmes d’Information, couvrant l’ensemble du cycle de vie des locataires.\n\nInterventions principales :\n\n- Pilotage de la mise en place de modules du progiciel métier (tests, paramétrage, déploiement)\n- Organisation et animation des formations utilisateurs\n- Encadrement de développements informatiques complémentaires\n- Coordination avec les équipes métiers sur un SI cœur de métier, fortement structurant pour l’organisation\n\nRôle impliquant conduite du changement et travail en environnement institutionnel, avec des enjeux opérationnels élevés.",
 			"url": "https://www.linkedin.com/company/alliadehabitat/",
-			"location": "L"
+			"location": "Lyon, France"
 		},
 		{
-			"name": "DICMA",
+			"name": "Dicma",
 			"position": "Chef de projets informatiques",
 			"startDate": "2012-01-01",
 			"endDate": "2012-12-31",
 			"highlights": [],
 			"summary": "Première expérience en environnement médical et juridique, orientée projets et relation client.\n\nInterventions principales :\n\n- Mise en place de solutions de dictée numérique et de reconnaissance vocale\n- Intégration logicielle dans les SI clients\n- Pilotage de projets de développement sous-traités\n- Rédaction de réponses à appels d’offres et participation aux soutenances\n- Formations utilisateurs et participation à des salons professionnels\n\nRôle fortement exposé aux utilisateurs finaux et aux contraintes métier, avec une forte exigence de fiabilité.",
-			"url": "https://www.linkedin.com/company/dicma/"
+			"url": "https://www.linkedin.com/company/Dicma/",
+			"location": "Lyon, France"
 		},
 		{
 			"name": "Sopra Steria",
@@ -108,7 +111,8 @@
 			"endDate": "2011-12-31",
 			"highlights": [],
 			"summary": "Parcours au sein de la division Immobilier – Agence IKOS, éditeur de progiciels destinés aux bailleurs sociaux.\n\nÉvolution progressive d’un rôle de développeur vers des responsabilités de chef de projets, sur des systèmes critiques à fort enjeu métier.\n\nPrincipales missions :\n\nChef de projet – Extranet locataires (2011)\nMise en place d’un extranet destiné aux locataires\nEncadrement d’une équipe de 7 personnes\nBudget : ~700 jours\n\nChef de projet – Module Extranet Diagnostics (2010)\nPilotage du développement d’un nouveau module\nDéfinition d’une nouvelle architecture technique\nBudget : ~350 jours\n\nResponsable adjoint – Modules et évolutions (2009)\nRéalisation d’études préalables et techniques (mobilité, production documentaire, ETL, intégrations LAD/RAD)\nRédaction de devis, surpilotage de projets, reporting à la direction\nBudget annuel : ~1200 jours\n\nDéveloppeur / Chef de projets courts (2006–2008)\nDéveloppements Java (Struts) et C# (.NET)\nPilotage de projets de 20 à 50 jours\n\nActivités transverses :\n\n- Relation clients et animation d’ateliers lors des journées IKOS\n- Participation à des groupes de travail métier\n\nCette expérience constitue mon socle technique et méthodologique :\ndéveloppement professionnel, architectures applicatives, projets budgétés, relation client et passage progressif vers le pilotage.",
-			"url": "https://www.linkedin.com/company/soprasteria/"
+			"url": "https://www.linkedin.com/company/soprasteria/",
+			"location": "Lyon, France"
 		},
 		{
 			"name": "Infineon Technologies",
@@ -117,7 +121,8 @@
 			"endDate": "2005-06-30",
 			"highlights": [],
 			"summary": "Développement d’un logiciel en C++ / Qt interfacé avec des microcontrôleurs et des instruments de contrôle et de mesure.\n\nExpérience en environnement industriel international, avec une forte exigence de fiabilité et de rigueur technique.",
-			"url": "https://www.linkedin.com/company/infineon-technologies/"
+			"url": "https://www.linkedin.com/company/infineon-technologies/",
+			"location": "Munich, Germany"
 		}
 	],
 	"volunteer": [],
