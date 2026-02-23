@@ -11,7 +11,7 @@
 		"location": {
 			"countryCode": "FR",
 			"address": "France",
-            "city": "Lyon"
+			"city": "Lyon"
 		},
 		"profiles": [
 			{
@@ -50,7 +50,7 @@
 			"position": "IT Project Manager / PMO",
 			"startDate": "2024-07-01",
 			"highlights": [],
-			"summary": "Intervention transverse sur la gouvernance et l’exploitation de plateformes techniques à l’échelle du groupe, avec un focus sur GitHub. Rôle orienté fiabilisation des usages et lisibilité pour le management, plus que production technique.\n\nResponsabilités principales :\nGouvernance et exploitation de GitHub Enterprise sur 36 organisations\nPilotage de la roadmap GitHub / Copilot, en lien direct avec les clients internes\nSuivi des usages, des coûts et des risques (FinOps, sécurité, conformité)\nMise en place d’automatisations (décommissionnement des comptes GitHub et 1Password, synchronisations d'équipes...)\nProduction et maintien de dashboards de pilotage (Grafana)\nPoint d’entrée en cas de dérive coûts / gouvernance / sécuritéIntervention transverse sur la gouvernance et l’exploitation de plateformes techniques à l’échelle du groupe, avec un focus sur GitHub. Rôle orienté fiabilisation des usages et lisibilité pour le management, plus que production technique.\n\nCompétences : GitHub · GitHub Copilot · API Postman",
+			"summary": "Intervention transverse sur la gouvernance et l'exploitation de plateformes techniques à l'échelle du groupe, avec un focus sur GitHub. Rôle orienté fiabilisation des usages et lisibilité pour le management, plus que production technique.\n\nResponsabilités principales :\n\n- Gouvernance et exploitation de GitHub Enterprise sur 36 organisations\n- Pilotage de la roadmap GitHub / Copilot, en lien direct avec les clients internes\n- Suivi des usages, des coûts et des risques (FinOps, sécurité, conformité)\n- Mise en place d'automatisations (décommissionnement des comptes GitHub et 1Password, synchronisations d'équipes...)\n- Production et maintien de dashboards de pilotage (Grafana)\n- Point d'entrée en cas de dérive coûts / gouvernance / sécurité\n\nCompétences : GitHub · GitHub Copilot · API Postman",
 			"url": "https://www.linkedin.com/company/pernod-ricard/",
 			"location": "Lyon, France (remote)"
 		},
@@ -58,9 +58,9 @@
 			"name": "Pernod Ricard",
 			"position": "IT Project Manager / PMO",
 			"startDate": "2020-09-01",
-            "endDate": "2024-05-30",
+			"endDate": "2024-05-30",
 			"highlights": [],
-			"summary": "Rôle de coordination au sein de l’équipe IT Architecture.\n\nPositionné entre équipes techniques et management, avec un rôle volontairement externe, orienté lisibilité, signaux faibles et aide à la décision.\n\nResponsabilités :\n\nSurpilotage d’un portefeuille d’environ 40 projets web, cloud et outils internes\nCoordination d’une douzaine d’architectes\nSuivi transverse de l’avancement, des dépendances et des risques\nReporting hebdomadaire (newsletter interne) à destination du management\nDétection précoce des signaux faibles terrain\n\nLe rôle était de donner au Head of IT Architecture une vision fidèle du terrain, pour lui permettre de prendre de meilleures décisions et de concentrer son temps sur les sujets à forte valeur.",
+			"summary": "Rôle de coordination au sein de l'équipe IT Architecture.\n\nPositionné entre équipes techniques et management, avec un rôle volontairement externe, orienté lisibilité, signaux faibles et aide à la décision.\n\nResponsabilités :\n\n- Surpilotage d'un portefeuille d'environ 40 projets web, cloud et outils internes\n- Coordination d'une douzaine d'architectes\n- Suivi transverse de l'avancement, des dépendances et des risques\n- Reporting hebdomadaire (newsletter interne) à destination du management\n- Détection précoce des signaux faibles terrain\n\nLe rôle était de donner au Head of IT Architecture une vision fidèle du terrain, pour lui permettre de prendre de meilleures décisions et de concentrer son temps sur les sujets à forte valeur.",
 			"url": "https://www.linkedin.com/company/pernod-ricard/",
 			"location": "Lyon, France (remote)"
 		},
@@ -69,7 +69,7 @@
 			"position": "Responsable des Professional Services / Chef de projets R&D",
 			"startDate": "2018-09-01",
 			"endDate": "2019-04-30",
-			"summary": "Intervention sur un produit métier critique à forts enjeux juridiques et réglementaires.\n\nCo-pilotage du projet Signature by FIDUCIAL (rédaction d’actes notariés, signature électronique, dépôt légal), en lien étroit avec les équipes produit, delivery et support.\n\nRôle centré sur :\n\nLa coordination des équipes Front / Back / Testing (≈20 personnes),\nL’interface entre opérationnel et gouvernance,\nLe pilotage d’un logiciel à contraintes légales élevées.\n\nCompétences : Méthodes agiles",
+			"summary": "Intervention sur un produit métier critique à forts enjeux juridiques et réglementaires.\n\nCo-pilotage du projet Signature by FIDUCIAL (rédaction d'actes notariés, signature électronique, dépôt légal), en lien étroit avec les équipes produit, delivery et support.\n\nRôle centré sur :\n\n- La coordination des équipes Front / Back / Testing (≈20 personnes)\n- L'interface entre opérationnel et gouvernance\n- Le pilotage d'un logiciel à contraintes légales élevées\n\nCompétences : Méthodes agiles",
 			"highlights": [],
 			"url": "https://www.linkedin.com/company/fiducial-informatique",
 			"location": "Lyon, France"
@@ -80,7 +80,7 @@
 			"startDate": "2015-01-01",
 			"endDate": "2018-08-31",
 			"highlights": [],
-			"summary": "Retour chez Dicma avec un périmètre élargi, combinant management, technique et pilotage opérationnel.\n\nResponsabilités :\n\n- Management et structuration de l’équipe technique (installations, hotline, support, formations)\n- Encadrement des projets de déploiement des solutions de dictée numérique et reconnaissance vocale\n- Pilotage de projets de développement informatiques\n- Supervision du SAV et des réparations hardware\n- Interface directe avec des clients très exigeants : professions libérales, cabinets, établissements de santé, CHU...\n\nContexte caractérisé par :\n\n- des contraintes légales fortes,\n- une faible tolérance à l’erreur,\n- un contact quotidien avec les utilisateurs.\n\nCette seconde expérience a marqué le passage d’un rôle de chef de projets à un rôle de responsable opérationnel, avec une forte responsabilité humaine et terrain.",
+			"summary": "Retour chez Dicma avec un périmètre élargi, combinant management, technique et pilotage opérationnel.\n\nResponsabilités :\n\n- Management et structuration de l'équipe technique (installations, hotline, support, formations)\n- Encadrement des projets de déploiement des solutions de dictée numérique et reconnaissance vocale\n- Pilotage de projets de développement informatiques\n- Supervision du SAV et des réparations hardware\n- Interface directe avec des clients très exigeants : professions libérales, cabinets, établissements de santé, CHU...\n\nContexte caractérisé par :\n\n- des contraintes légales fortes\n- une faible tolérance à l'erreur\n- un contact quotidien avec les utilisateurs\n\nCette seconde expérience a marqué le passage d'un rôle de chef de projets à un rôle de responsable opérationnel, avec une forte responsabilité humaine et terrain.",
 			"url": "https://www.linkedin.com/company/Dicma/",
 			"location": "Lyon, France"
 		},
@@ -90,7 +90,7 @@
 			"startDate": "2013-01-01",
 			"endDate": "2014-12-31",
 			"highlights": [],
-			"summary": "Responsable du domaine fonctionnel Gestion locative au sein du GIE Amallia Systèmes d’Information, couvrant l’ensemble du cycle de vie des locataires.\n\nInterventions principales :\n\n- Pilotage de la mise en place de modules du progiciel métier (tests, paramétrage, déploiement)\n- Organisation et animation des formations utilisateurs\n- Encadrement de développements informatiques complémentaires\n- Coordination avec les équipes métiers sur un SI cœur de métier, fortement structurant pour l’organisation\n\nRôle impliquant conduite du changement et travail en environnement institutionnel, avec des enjeux opérationnels élevés.",
+			"summary": "Responsable du domaine fonctionnel Gestion locative au sein du GIE Amallia Systèmes d'Information, couvrant l'ensemble du cycle de vie des locataires.\n\nInterventions principales :\n\n- Pilotage de la mise en place de modules du progiciel métier (tests, paramétrage, déploiement)\n- Organisation et animation des formations utilisateurs\n- Encadrement de développements informatiques complémentaires\n- Coordination avec les équipes métiers sur un SI cœur de métier, fortement structurant pour l'organisation\n\nRôle impliquant conduite du changement et travail en environnement institutionnel, avec des enjeux opérationnels élevés.",
 			"url": "https://www.linkedin.com/company/alliadehabitat/",
 			"location": "Lyon, France"
 		},
@@ -100,7 +100,7 @@
 			"startDate": "2012-01-01",
 			"endDate": "2012-12-31",
 			"highlights": [],
-			"summary": "Première expérience en environnement médical et juridique, orientée projets et relation client.\n\nInterventions principales :\n\n- Mise en place de solutions de dictée numérique et de reconnaissance vocale\n- Intégration logicielle dans les SI clients\n- Pilotage de projets de développement sous-traités\n- Rédaction de réponses à appels d’offres et participation aux soutenances\n- Formations utilisateurs et participation à des salons professionnels\n\nRôle fortement exposé aux utilisateurs finaux et aux contraintes métier, avec une forte exigence de fiabilité.",
+			"summary": "Première expérience en environnement médical et juridique, orientée projets et relation client.\n\nInterventions principales :\n\n- Mise en place de solutions de dictée numérique et de reconnaissance vocale\n- Intégration logicielle dans les SI clients\n- Pilotage de projets de développement sous-traités\n- Rédaction de réponses à appels d'offres et participation aux soutenances\n- Formations utilisateurs et participation à des salons professionnels\n\nRôle fortement exposé aux utilisateurs finaux et aux contraintes métier, avec une forte exigence de fiabilité.",
 			"url": "https://www.linkedin.com/company/Dicma/",
 			"location": "Lyon, France"
 		},
@@ -110,7 +110,7 @@
 			"startDate": "2006-02-01",
 			"endDate": "2011-12-31",
 			"highlights": [],
-			"summary": "Parcours au sein de la division Immobilier – Agence IKOS, éditeur de progiciels destinés aux bailleurs sociaux.\n\nÉvolution progressive d’un rôle de développeur vers des responsabilités de chef de projets, sur des systèmes critiques à fort enjeu métier.\n\nPrincipales missions :\n\nChef de projet – Extranet locataires (2011)\nMise en place d’un extranet destiné aux locataires\nEncadrement d’une équipe de 7 personnes\nBudget : ~700 jours\n\nChef de projet – Module Extranet Diagnostics (2010)\nPilotage du développement d’un nouveau module\nDéfinition d’une nouvelle architecture technique\nBudget : ~350 jours\n\nResponsable adjoint – Modules et évolutions (2009)\nRéalisation d’études préalables et techniques (mobilité, production documentaire, ETL, intégrations LAD/RAD)\nRédaction de devis, surpilotage de projets, reporting à la direction\nBudget annuel : ~1200 jours\n\nDéveloppeur / Chef de projets courts (2006–2008)\nDéveloppements Java (Struts) et C# (.NET)\nPilotage de projets de 20 à 50 jours\n\nActivités transverses :\n\n- Relation clients et animation d’ateliers lors des journées IKOS\n- Participation à des groupes de travail métier\n\nCette expérience constitue mon socle technique et méthodologique :\ndéveloppement professionnel, architectures applicatives, projets budgétés, relation client et passage progressif vers le pilotage.",
+			"summary": "Parcours au sein de la division Immobilier – Agence IKOS, éditeur de progiciels destinés aux bailleurs sociaux.\n\nÉvolution progressive d'un rôle de développeur vers des responsabilités de chef de projets, sur des systèmes critiques à fort enjeu métier.\n\nPrincipales missions :\n\nChef de projet – Extranet locataires (2011)\n- Mise en place d'un extranet destiné aux locataires\n- Encadrement d'une équipe de 7 personnes\n- Budget : ~700 jours\n\nChef de projet – Module Extranet Diagnostics (2010)\n- Pilotage du développement d'un nouveau module\n- Définition d'une nouvelle architecture technique\n- Budget : ~350 jours\n\nResponsable adjoint – Modules et évolutions (2009)\n- Réalisation d'études préalables et techniques (mobilité, production documentaire, ETL, intégrations LAD/RAD)\n- Rédaction de devis, surpilotage de projets, reporting à la direction\n- Budget annuel : ~1200 jours\n\nDéveloppeur / Chef de projets courts (2006–2008)\n- Développements Java (Struts) et C# (.NET)\n- Pilotage de projets de 20 à 50 jours\n\nActivités transverses :\n\n- Relation clients et animation d'ateliers lors des journées IKOS\n- Participation à des groupes de travail métier\n\nCette expérience constitue mon socle technique et méthodologique : développement professionnel, architectures applicatives, projets budgétés, relation client et passage progressif vers le pilotage.",
 			"url": "https://www.linkedin.com/company/soprasteria/",
 			"location": "Lyon, France"
 		},
