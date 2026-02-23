@@ -1,5 +1,12 @@
 # JSON Resume - Romain KOENIG
 
+[![Build and Deploy to FTP](https://github.com/romain-koenig/json-resume/actions/workflows/deploy-ftp.yml/badge.svg)](https://github.com/romain-koenig/json-resume/actions/workflows/deploy-ftp.yml)
+[![JSON Resume](https://img.shields.io/badge/JSON%20Resume-v1.0.0-green.svg)](https://jsonresume.org/)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](https://nodejs.org/)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![Theme](https://img.shields.io/badge/theme-elegant-ff69b4.svg)](https://github.com/mudassir0909/jsonresume-theme-elegant)
+[![Last Commit](https://img.shields.io/github/last-commit/romain-koenig/json-resume?label=last%20update)](https://github.com/romain-koenig/json-resume/commits/main)
+
 Professional resume built with [JSON Resume](https://jsonresume.org/), an open-source standard for creating machine-readable resumes.
 
 ## 📋 About
