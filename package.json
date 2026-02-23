@@ -1,7 +1,7 @@
 {
   "name": "json-resume",
   "version": "1.0.0",
-  "description": "",
+  "description": "Professional resume built with JSON Resume using the Elegant theme",
   "homepage": "https://github.com/romain-koenig/json-resume#readme",
   "bugs": {
     "url": "https://github.com/romain-koenig/json-resume/issues"
@@ -11,9 +11,7 @@
     "url": "git+https://github.com/romain-koenig/json-resume.git"
   },
   "license": "ISC",
-  "author": "",
-  "type": "commonjs",
-  "main": "index.js",
+  "author": "Romain KOENIG <romain@kromatic.fr>",
   "scripts": {
     "validate": "resume validate --resume resume.json",
     "build": "mkdir -p dist && resume export dist/index.html --resume resume.json --theme elegant"
