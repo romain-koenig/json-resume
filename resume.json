@@ -144,7 +144,8 @@
 			"issuer": "Microsoft",
 			"date": "2026-02-25",
 			"url": "https://learn.microsoft.com/api/achievements/share/en-us/RomainKOENIG-4770/FQ6ZHT3X?sharingId=4EC839510B1AB2C2"
-		},{
+		},
+		{
 			"name": "SAP Customer Engagement and Discovery",
 			"issuer": "Coursera - SAP",
 			"date": "2026-01-28",
@@ -219,7 +220,7 @@
 		{
 			"name": "Build JavaScript applications with Node.js",
 			"issuer": "Microsoft",
-			"date": "2020-8-8",
+			"date": "2020-08-08",
 			"url": "https://learn.microsoft.com/api/achievements/share/en-us/RomainKOENIG-4770/78TH6XZ5?sharingId=4EC839510B1AB2C2"
 		},
 		{
